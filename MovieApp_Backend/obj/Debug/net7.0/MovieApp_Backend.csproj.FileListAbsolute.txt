@@ -18,7 +18,6 @@ C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\MovieApp_Backend.csproj.CoreCompileInputs.cache
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\MovieApp_Backend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\MovieApp_Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\MovieApp_Backend.sourcelink.json
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\user1\Downloads\Bluetooth\Movies\MovieApp_Backend\MovieApp_Backend\obj\Debug\net7.0\staticwebassets\msbuild.MovieApp_Backend.Microsoft.AspNetCore.StaticWebAssets.props
