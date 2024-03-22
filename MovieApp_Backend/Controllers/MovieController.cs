@@ -23,12 +23,6 @@ namespace MovieApp_Backend.Controllers
 			return Ok(searchResults);
 		}
 
-		//[HttpGet("search/history")]
-		//public IActionResult GetSearchHistory()
-		//{
-		//	var searchHistory = _omdbService.GetSearchHistory();
-		//	return Ok(searchHistory);
-		//}
 
 		[HttpGet("{imdbId}")]
 		public async Task<IActionResult> GetMovieDetails(string imdbId)
