@@ -8,9 +8,9 @@ namespace MovieApp_Backend.Controllers
 	[ApiController]
 	public class MovieController : ControllerBase
 	{
-		private readonly OmdbService _omdbService;
+		private readonly IOmdbService _omdbService;
 
-		public MovieController(OmdbService omdbService)
+		public MovieController(IOmdbService omdbService)
 		{
 			_omdbService = omdbService;
 		}
